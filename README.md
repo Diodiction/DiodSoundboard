@@ -7,6 +7,8 @@ A simple but powerful audio mixer and soundboard application built with Python. 
 
 This application runs in **Administrator Mode** to allow global hotkeys (hotkeys that work even when the app is minimized).
 
+I have been using this on my main without any problems, but USE IT AT YOUR OWN RISK.
+
 ---
 ## 한국어 (Korean)
 
